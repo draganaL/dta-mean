@@ -1,0 +1,19 @@
+{
+  "name": "dta-mean",
+  "version": "1.0.0",
+  "description": "learn mean stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draganaL/dta-mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draganaL/dta-mean/issues"
+  },
+  "homepage": "https://github.com/draganaL/dta-mean#readme"
+}
